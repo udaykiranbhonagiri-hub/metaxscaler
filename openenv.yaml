@@ -1,0 +1,13 @@
+name: delivery-env
+
+tasks:
+  - id: easy
+    difficulty: easy
+
+  - id: medium
+    difficulty: medium
+
+  - id: hard
+    difficulty: hard
+
+entrypoint: inference.py
