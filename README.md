@@ -21,3 +21,6 @@ Simulates a delivery agent completing package deliveries under time constraints.
 
 ## Run
 python inference.py
+
+# usecase
+This is real time project used for the optimise the daily work
