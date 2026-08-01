@@ -24,3 +24,5 @@ python inference.py
 
 # usecase
 This is real time project used for the optimise the daily work
+# run
+you can run the project with the help of the python in your laptop
